@@ -1,0 +1,2 @@
+# emotion_recognition_python
+ Python application that uses a class of neural networks known as convolutional neural networks to recognise facial emotions from images. Users can upload images and the application will classify each detected face with a facial emotion such as sad or happy. MTCNN python library is used to detect faces and a self-made model trained from the fer2013 dataset is used to classify the emotion.
